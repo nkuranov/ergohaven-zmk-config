@@ -164,10 +164,10 @@
         sym_ru {
             display-name = "Symbols";
             bindings = <
-&trans  &trans                  &trans          &trans            &trans           &trans                       &trans          &trans    &trans              &trans      &trans          &trans
-&trans  &kp TILDE               &en LT          &kp EQUAL         &en GT           &en GRAVE                    &kp CARET       &en LBKT  &kp UNDER           &en RBKT    &en DLLR        &trans
-&trans  &hml LGUI RU_BACKSLASH  &hml LALT LPAR  &hml LSHFT MINUS  &hml LCTRL RPAR  &kp PLUS                     &kp RU_PERCENT  &en LBRC  &hmr RSHFT RU_SEMI  &en RBRC    &hmr RGUI EXCL  &trans
-&trans  &kp HASH                &kp RU_ASTRK    &kp RU_COLON      &kp RU_FSLH      &kp AMPS   &trans    &trans  &kp AT          &en PIPE  &en RU_COMMA        &en RU_DOT  &kp RU_QMARK    &trans
+&trans  &trans                  &trans          &trans            &trans           &trans                       &trans          &trans    &trans              &trans    &trans          &trans
+&trans  &kp TILDE               &en LT          &kp EQUAL         &en GT           &en GRAVE                    &kp CARET       &en LBKT  &kp UNDER           &en RBKT  &en DLLR        &trans
+&trans  &hml LGUI RU_BACKSLASH  &hml LALT LPAR  &hml LSHFT MINUS  &hml LCTRL RPAR  &kp PLUS                     &kp RU_PERCENT  &en LBRC  &hmr RSHFT RU_SEMI  &en RBRC  &hmr RGUI EXCL  &trans
+&trans  &kp HASH                &kp RU_ASTRK    &kp RU_COLON      &kp RU_FSLH      &kp AMPS   &trans    &trans  &kp AT          &en PIPE  &en LS(FSLH)        &en FSLH  &kp RU_QMARK    &trans
                                 &trans          &trans            &trans           &mo 5      &trans    &trans  &none           &trans    &trans              &trans
             >;
         };
